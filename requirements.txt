@@ -1,0 +1,10 @@
+# Ahmed GameLink — external dependencies.
+#
+# Justification for every library lives in README.md (Spec section 6).
+# No library here requires administrator privileges, and none installs
+# hidden certificates or network drivers (Spec section 4).
+
+PySide6>=6.5          # GUI (Spec section 3): RTL, Dark Mode, Arabic/English.
+
+# dnspython will be added in Phase 2 for direct queries to specific
+# DNS servers (system DNS vs 1.1.1.1 vs 8.8.8.8) — see README then.
