@@ -1,6 +1,7 @@
 <meta name="google-site-verification" content="YZ_Wldp-8mkViZuD2hDvlfP64E7BbJGVUnn-41BGRvk" />
+
 # Ahmed GameLink — Smart Roblox Connectivity Assistant
-### Developed by AhmedOmer
+### Developed by AhmedOmerCode
 
 أداة مفتوحة المصدر لمساعدة المستخدمين على **تشخيص** مشكلات الاتصال بلعبة Roblox:
 فحص الإنترنت وDNS وTCP وHTTPS وزمن الاستجابة، مع تقرير عربي مفهوم وحلول
@@ -115,7 +116,7 @@ ICMP API (بلا raw sockets)، ولا تثبيت شهادات أو تعريفا
 
 ## هيكل المشروع
 
-```
+```text
 main.py                  نقطة الدخول
 app_state.py             إعدادات المستخدم (JSON محلي)
 core/                    محرك الشبكة — بلا Qt
@@ -138,4 +139,4 @@ tests/                   اختبارات قبول لكل مرحلة
 
 ## الترخيص
 MIT — انظر `LICENSE`.
-Developed by [AhmedOmer](https://github.com/astatywnj-sudo)
+Developed by [AhmedOmerCode](https://github.com/astatywnj-sudo)
