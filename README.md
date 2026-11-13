@@ -138,3 +138,4 @@ tests/                   اختبارات قبول لكل مرحلة
 
 ## الترخيص
 MIT — انظر `LICENSE`.
+Developed by [AhmedOmer](https://github.com/astatywnj-sudo)
