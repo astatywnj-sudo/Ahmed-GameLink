@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="YZ_Wldp-8mkViZuD2hDvlfP64E7BbJGVUnn-41BGRvk" />
 # Ahmed GameLink — Smart Roblox Connectivity Assistant
 
 أداة مفتوحة المصدر لمساعدة المستخدمين على **تشخيص** مشكلات الاتصال بلعبة Roblox:
